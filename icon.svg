@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024">
+  <!-- wobbly sticky-note body -->
+  <path d="M206 112 C 410 92, 622 98, 842 118 C 906 126, 920 168, 914 236 C 902 450, 916 668, 904 842 C 898 906, 852 918, 786 914 C 572 902, 392 916, 196 906 C 132 902, 108 862, 110 800 C 118 590, 104 392, 118 210 C 124 146, 152 116, 206 112 Z"
+        fill="#FFE27A" stroke="#2F2A3B" stroke-width="44" stroke-linejoin="round"/>
+  <!-- hand-coloured shading offset -->
+  <path d="M150 760 C 160 820, 190 860, 260 862 C 430 868, 620 856, 820 866" fill="none" stroke="#F6C94B" stroke-width="36" stroke-linecap="round" opacity="0.9"/>
+  <!-- eyes -->
+  <ellipse cx="372" cy="430" rx="40" ry="48" fill="#2F2A3B"/>
+  <ellipse cx="652" cy="430" rx="40" ry="48" fill="#2F2A3B"/>
+  <circle cx="386" cy="412" r="12" fill="#FFFFFF"/>
+  <circle cx="666" cy="412" r="12" fill="#FFFFFF"/>
+  <!-- blush -->
+  <ellipse cx="282" cy="548" rx="62" ry="32" fill="#FF8FB8" opacity="0.85"/>
+  <ellipse cx="742" cy="548" rx="62" ry="32" fill="#FF8FB8" opacity="0.85"/>
+  <!-- checkmark smile -->
+  <path d="M392 588 C 430 626, 462 664, 492 700 C 560 610, 628 548, 700 500" fill="none" stroke="#2F2A3B" stroke-width="50" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- sparkle -->
+  <path d="M846 186 C 852 236, 866 252, 916 258 C 866 266, 852 282, 846 332 C 840 282, 826 266, 776 258 C 826 252, 840 236, 846 186 Z" fill="#FF8FB8" stroke="#2F2A3B" stroke-width="16" stroke-linejoin="round"/>
+</svg>
